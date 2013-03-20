@@ -1,4 +1,4 @@
-dirSync.py
+dirSync
 ==========
 
-Recursively compare and sync directories and files
+Recursively compare and sync directories and files using Python
